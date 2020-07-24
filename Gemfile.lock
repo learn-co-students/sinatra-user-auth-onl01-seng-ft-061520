@@ -23,7 +23,6 @@ GEM
     addressable (2.6.0)
       public_suffix (>= 2.0.2, < 4.0)
     arel (6.0.4)
-    bigdecimal (1.4.2)
     builder (3.2.3)
     capybara (3.14.0)
       addressable
@@ -102,7 +101,6 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord (= 4.2)
-  bigdecimal (= 1.4.2)
   capybara
   database_cleaner!
   launchy
